@@ -66,7 +66,7 @@
       <a href="https://numpy.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></a>
       <a href="https://pandas.pydata.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /></a>
       <a href="https://matplotlib.org/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" /></a>
-      <a href="https://scikit-learn.org/stable/" target="_blank"><img width="30px" src="https://logos-download.com/wp-content/uploads/2021/01/Scikit_Learn_Logo.png" /></a>
+      <a href="https://scikit-learn.org/stable/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" /></a>
       <a href="https://opencv.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" /></a>
     </kbd>
     <kbd>
@@ -79,7 +79,7 @@
       <kbd>Database</kbd>
       <br>
       <br>
-      <a href="https://www.mysql.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" /></a>
+      <a href="https://www.mysql.com/" target="_blank"><img width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" /></a>
       <a href="https://www.postgresql.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
       <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /></a>
     </kbd>
