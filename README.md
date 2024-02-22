@@ -17,7 +17,7 @@
   
 - ✨ Student of life
   
-- 🌱 I’m currently learning many things, focusing on Deep Leaarning, AI & Neural Networks
+- 🌱 I’m currently learning many things, focusing on Deep Learning, AI & Neural Networks
 
 - 🤔 I'm currently looking for opportunities
 
