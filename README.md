@@ -41,7 +41,7 @@
       <br>
         <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Windows_10x_Icon.png/1024px-Windows_10x_Icon.png" /></a>
         <a href="https://ubuntu.com/" target="_blank"><img width="30px" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/distributorlogoubuntu_103999.png" /></a>
-        <a href="https://www.kali.org/" target="_blank"><img width="30px" src="https://cdn.worldvectorlogo.com/logos/kali-1.svg" /></a>
+        <a href="https://www.kali.org/" target="_blank"><img width="30px" src="https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png" /></a>
     </kbd>
       <br>
     <kbd>
