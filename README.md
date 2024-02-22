@@ -5,10 +5,6 @@
 </div>
 
 <p align="center">
-	<a href="https://github.com/jantonioruiz">
-		<img src="https://komarev.com/ghpvc/?username=jantonioruiz&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-	</a>
-	<a href="https://github.com/jantonioruiz">
-		<img src="https://img.shields.io/github/followers/jantonioruiz?label=Followers" alt="followers"/>
-	</a>
+    <a href="https://github.com/jantonioruiz"><img src="https://komarev.com/ghpvc/?username=jantonioruiz&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/></a>
+    <a href="https://github.com/jantonioruiz"><img src="https://img.shields.io/github/followers/jantonioruiz?label=Followers" alt="followers"/></a>
 </p>
