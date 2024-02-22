@@ -65,7 +65,7 @@
       <a href="https://numpy.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></a>
       <a href="https://pandas.pydata.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /></a>
       <a href="https://matplotlib.org/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" /></a>
-      <a href="https://www.fast.ai/" target="_blank"><img width="30px" src="https://repository-images.githubusercontent.com/616548600/ae21fe11-2ab9-4556-bd6a-0566fc4474a2" /></a>
+      <a href="https://www.fast.ai/" target="_blank"><img width="30px" src="https://repository-images.githubusercontent.com/487949797/588d1667-9115-4d58-b2f7-955a33b88a4e" /></a>
       <a href="https://opencv.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" /></a>
     </kbd>
     <kbd>
