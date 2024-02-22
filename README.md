@@ -63,7 +63,6 @@
       <br>
       <br>
       <a href='https://www.tensorflow.org/' target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></a>
-      <a href="https://fluxml.ai/" target="_blank"><img width="30px" src="https://avatars.githubusercontent.com/u/26222520?s=280&v=4" /></a>
       <a href="https://numpy.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></a>
       <a href="https://pandas.pydata.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /></a>
       <a href="https://matplotlib.org/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" /></a>
@@ -89,10 +88,7 @@
       <kbd>System, Networking & Deployment</kbd>
       <br>
       <br>
-      <a href="https://www.heroku.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" /></a>
-      <a href="https://git-scm.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /></a>
       <a href="https://www.docker.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /></a>
-      <a href="https://railway.app/" target="_blank"><img width="30px" src="https://railway.app/brand/logo-light.svg" /></a>
     </kbd>
     <kbd>
       <kbd>Terminal Scripts</kbd>
@@ -105,8 +101,6 @@
       <kbd>Text editor, IDE, Notebook</kbd>
       <br>
       <br>
-      <a href="https://www.vim.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" /></a>
-      <a href="https://plutojl.org/" target="_blank"><img width="30px" src="https://juliacomputing.gallerycdn.vsassets.io/extensions/juliacomputing/pluto-vscode/0.1.2/1649235051665/Microsoft.VisualStudio.Services.Icons.Default" /></a>
       <a href="https://jupyter.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /></a>
       <a href="https://code.visualstudio.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
       <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" /></a>
