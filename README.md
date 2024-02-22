@@ -36,7 +36,7 @@
 
 <p align=center>
  <kbd>
-      <kbd>Operating Sytem</kbd>
+      <kbd>Operating Systems</kbd>
       <br>
       <br>
         <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Windows_10x_Icon.png/1024px-Windows_10x_Icon.png" /></a>
