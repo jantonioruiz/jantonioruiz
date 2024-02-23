@@ -126,17 +126,17 @@
     <tr>
         <td>
             <a href="https://github.com/jantonioruiz" target="_blank">
-                <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" style="width: 50px; height: 50px; margin-bottom: 5px;" />
+                <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" style="width: 50px; height: 50px;" />
             </a>
         </td>
         <td>
             <a href="https://www.linkedin.com/in/juanantruiz" target="_blank">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="linkedin" style="width: 50px; height: 50px; margin-bottom: 5px;" />
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="linkedin" style="width: 50px; height: 50px;" />
             </a>
         </td>
         <td>
             <a href="mailto:juanantonioruizarevalo@gmail.com" target="_blank">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="gmail" style="width: 50px; height: 50px; margin-bottom: 5px;" />
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="gmail" style="width: 50px; height: 50px;" />
             </a>
         </td>
     </tr>
