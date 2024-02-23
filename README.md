@@ -123,10 +123,10 @@
 ## 📬 Contact me
 
 <p align="center">
-    <a href="https://github.com/jantonioruiz" target="_blank" style="margin-right: 10px;">
+    <a href="https://github.com/jantonioruiz" target="_blank" style="margin-right: 100px;">
         <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" style="width: 50px; height: 50px; margin-bottom: 5px;" />
     </a>
-    <a href="https://www.linkedin.com/in/juanantruiz" target="_blank" style="margin-right: 10px;">
+    <a href="https://www.linkedin.com/in/juanantruiz" target="_blank" style="margin-right: 100px;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="linkedin" style="width: 50px; height: 50px; margin-bottom: 5px;" />
     </a>
     <a href="mailto:juanantonioruizarevalo@gmail.com" target="_blank">
