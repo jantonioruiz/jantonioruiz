@@ -108,6 +108,34 @@
 
 <br/>
 
+## 📈 Github Profile Stats
+
+<p align="center">
+    <a href="https://github.com/jantonioruiz">
+        <img height="180em" src="https://streak-stats.demolab.com?user=jantonioruiz&theme=tokyonight&hide_border=true&border_radius="/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jantonioruiz&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jantonioruiz&hide_border=true&layout=compact&theme=tokyonight&hide=jupyter%20notebook"/>
+    </a>
+</p>
+
+<br/>
+
+## 📬 Contact me
+
+<p align=center>
+    <a href="https://github.com/jantonioruiz" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt=github style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://www.linkedin.com/in/juanantruiz" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt=linkedin style="margin-bottom: 5px;" />
+    </a>
+    <a href="mailto:juanantonioruizarevalo@gmail.com" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt=gmail style="margin-bottom: 5px;" />
+    </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
 <!-- Links -->
 
 [LinkedIn]: https://www.linkedin.com/in/juanantruiz
