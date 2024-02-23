@@ -115,8 +115,8 @@
 <p align="center">
     <a href="https://github.com/jantonioruiz">
         <img height="180em" src="https://streak-stats.demolab.com?user=jantonioruiz&theme=tokyonight&hide_border=true&border_radius=5"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jantonioruiz&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jantonioruiz&theme=tokyonight"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jantonioruiz&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&border_radius=5"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jantonioruiz&theme=tokyonight&hide_border=true&border_radius=5"/>
     </a>
 </p>
 
