@@ -54,8 +54,8 @@
         <a href="https://isocpp.org/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" /></a>
         <a href="https://kotlinlang.org/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" /></a>
         <a href="https://www.java.com/" target="_blank"><img width="30px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" /></a>
-        <a href="https://html.com/html5/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> </a>
-        <a href="https://www.ruby-lang.org/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/2048px-Ruby_logo.svg.png" /> </a>
+        <a href="https://html.com/html5/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
+        <a href="https://www.ruby-lang.org/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/2048px-Ruby_logo.svg.png" /></a>
         <a href="https://www.markdownguide.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></a>
     </kbd>
       <br>
@@ -103,7 +103,7 @@
       <br>
       <br>
       <a href="https://jupyter.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /></a>
-      <a href="https://code.visualstudio.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+      <a href="https://code.visualstudio.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
       <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" /></a>
       </kbd>
 </p>
