@@ -124,13 +124,13 @@
 
 <p align=center>
     <a href="https://github.com/jantonioruiz" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" style="width: 10px; height: auto; margin-bottom: 5px;" />
+        <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt=github style="width: 100px; height: 100px; margin-bottom: 5px;" />
     </a>
     <a href="https://www.linkedin.com/in/juanantruiz" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt=linkedin style="margin-bottom: 5px;" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt=linkedin style="width: 100px; height: 100px; margin-bottom: 5px;" />
     </a>
     <a href="mailto:juanantonioruizarevalo@gmail.com" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt=gmail style="margin-bottom: 5px;" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt=gmail style="width: 100px; height: 100px; margin-bottom: 5px;" />
     </a>
 </p>
 
